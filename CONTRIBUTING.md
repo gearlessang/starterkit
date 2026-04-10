@@ -18,6 +18,7 @@ Open an issue with the **enhancement** label and describe:
 - The use case you want to solve
 - Your proposed solution
 - Alternatives you considered
+- Your environment (Node version, OS, network)
 
 ### Pull Requests
 
