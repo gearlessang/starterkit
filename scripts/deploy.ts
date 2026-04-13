@@ -1,8 +1,3 @@
-import { ethers, network, run } from "hardhat";
-import { MyToken, MyNFT } from "../typechain-types";
-
-async function main() {
-  const [deployer] = await ethers.getSigners();
 
   console.log("=".repeat(60));
   console.log("⛓️  Web3 Starter Kit — Deployment Script");
